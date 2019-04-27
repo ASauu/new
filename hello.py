@@ -1,2 +1,2 @@
 print ("joke")
-yyuyuyu
+assert [1,1]==[1,2]
